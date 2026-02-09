@@ -1,0 +1,384 @@
+PREDAVANJE 1
+1) Sve razine menadžmenta (top, middle i low level management) obavljaju sve funkcije - razlika je u vremenu utrošenom na pojedinu funkciju na određenoj razini.  TOČNO
+2) Moderne teorije menadžmenta dijele se na 3 teorijska pristupa
+a.
+
+Sustavska teorija
+b.
+
+Kontingencijska ili situacijska teorija
+c.
+
+Kvantitativna teorija odnosno pristup menadžmentu
+
+3) Administrativna teorija menadžmenta naziva se još i teorija općeg menadžmenta, a razvio ju je Max Weber NETOČNO
+4) Začetnik Henry Fayol smatra se ocem modernog menadžmenta. Prvi je pristupio menadžmentu kao posebnoj, najvažnijoj funkciji i procesu u organizaciji. TOČNO
+5) Cilj teorije SUSTAVNOG menadžmenta je konceptualizacija visoko efikasne i motivirane ljudske organizacije
+6) Efikasnost - Odnos inputa (resursa i energije) i outputa (proizvoda)
+   Efektivnost - Veličina outputa koju menadžment mora ostvariti
+   
+7) Bihevioristička (neoklasična) teorija se bazira na temeljnom pitanju:
+Kako povećati efikasnosti uspješnost menadžmenta i organizacije te učiniti ljudski rad produktivnijim.
+
+PREDAVANJE 2
+1) Pristupi korporacijske strategije karakteristični za strategijsku razinu:
+a) glavna strategija
+c) poslovni portfolio
+2) Cilj: opisuje što organizacija mora učiniti kako bi se misija postigla
+   Plan: opisuje koje akcije i planove treba poduzeti kako bi se neka strategija mogla izvršiti
+   Strategija: opisuje kako postići određene ciljeve
+   Misija: opisuje što organizacija želi postići
+3) Planiranje je proces definiranja onoga što neka organizacija želi postići i na način koji to želi ostvariti, a koji započinje određivanjem trenutačnog položaja organizacije.
+4) Važna pitanja u planiranju:
+a.
+
+Kako to želimo postići?
+
+c.
+
+Kamo želimo stići?
+d.
+
+Gdje smo?
+5)Na temelju 3 osnovne razine menadžmenta razlikuju se i 3 strategije:
+a. Funkcijska
+c. Korporacijska
+e. Poslovna
+
+6)Strategija poduzeća formira opsežan master plan postavljen tako da ono ostvari svoju viziju, misiju i ciljeve. Ona minimizira konkurentske prednosti.
+Netočno
+
+PREDAVANJE 3
+1) Radi se o radnoj okolini poduzeća u kojoj se odvijaju svi ključni procesi i događaji bitni za opstanak i razvoj poduzeća
+a. Unutarnja okolina
+
+2) Tehnike za analizu unutarnje okoline
+a. Resource audit
+d. MOST analysis
+e. BCG matrix
+
+3) SWOT se koristi samo za analizu vanjske okoline
+Netočno
+
+4)
+The 4-view model Organisation, processes, people, technology
+TOWS matrica Omogućava lakše povezivanje vanjskog i unutarnjeg okruženja i formulaciju strategije 
+
+The McKinsey 7-S Definira područja u organizaciji koja moraju biti poravnata, usklađena na neki način da bi postizali određene efekte
+
+BCG Razvijen je za pomoć pri upravljanju portfeljem. Kutija je 2 x 2 matrica s četiri kvadranta. Osi predstavljaju nizak do visok tržišni rast i nizak do visoki tržišni udio
+
+SWOT Metoda primjenjiva na makroekonomskom i mikroekonomskom planu. Naglasak je na isticanju dobrog ili lošeg u sadašnjosti i na predviđanju mogućnosti i rizika u budućnosti 
+
+5) SWOT se koristi za analizu unutarnje i vanjske okoline T
+6) Tehnike za analizu vanjske okoline - Porter's 5 forces, PEST, PESTEL
+
+PREDAVANJE 4
+1)
+Načelo objekta - Grupiranje zadataka i formiranje organizacijskih jedinica obavlja se prema proizvodima, uslugama ili klijentima
+
+Načelo izvršenja - Formiranje organizacijskih jedinica prema poslovnim funkcijama ili poslovima tih funkcija
+
+Načelo vremena - Aktivnosti se grupiraju na temelju vremena u kojem se neki posao obavlja
+
+Načelo jednostavnih brojeva - Ljudi se grupiraju na istovrsnim poslovima
+
+Načelo vrste procesa ili opreme - Grupiranje se vrši prema tehnološkim fazama
+
+2) Vrste matričnih organizacija: Slaba matrica, uravnotežena matrica, jaka matrica
+
+3) Osnovni tipovi org. struktura: Funkcionalna, projektna, matrična
+
+4) Teorija DEPARTMENTALIZACIJE bavi se načelima formiranja organizacijskih jedinica. Izbor odgovarajuće vrste organizacijske strukture ovisi o unutarnjoj podjeli rada. Organizacijske jedinice se formiraju grupiranjem sličnih jedinica.
+
+5) Formalna organizacija veže se za ljude i njihovo djelovanje u organizaciji F
+
+6) Neformalna organizacija veže se za proces F
+
+PREDAVANJE 5
+
+1) Dominantna kultura je ona koja dijeli poglede većine članova organizacije, dok supkulturu čine karakteristike različitih pojedinaca ili skupina unutar oragnizacije T
+
+2) Vrste org. kulture:
+Jasna i nejasna
+Postojana i prilagodljiva
+Izvrsna i užasna
+Jaka i slaba
+Participativna i neparticipativna
+Dominantna i supkultura
+
+3) Nevidljivi znakovi org. strukture
+stavovi
+norme
+uvjerenja
+vrijednosti
+ 
+4) 
+Birokratska kultura - Zapovjedni lanac te centralizirano odlučivanje 
+Poduzetnička kultura - Dinamična i kreativna radna okolina te inovacije i preuzimanje rizika.
+Tržišna kultura - Usmjerenost organizacije rezultatu.
+Kultura klana - Članovi si međusobno pomažu i zajedno slave uspjeh te zbog vrlo prijateljske radne okoline i međusobne predanosti djeluju poput proširene obitelji 
+
+5) Tipovi organizacijske kulture:
+Birokratska
+Tržišna
+Kultura klana
+Poduzetnička kultura
+
+6) Organizacijska kultura je relativno trajan i specifičan sustav temeljnih vrijednosti, uvjerenja, normi i običaja koji određuje organizacijsko ponašanje te usmjerava sve aktivnosti pojedinca ili grupe unutar organizacije.
+
+PREDAVANJE 6
+
+1) Uloga IT menadžera je da nadziru i upravljaju it sustavima kako bi osigurali da su uvijek dostupni T
+2) Efektivni it menadžment ima kapacitet za učinkovito izvršavanje 4 funkcionalne domene: sigurnost informacija, planiranje i dizajn, održavanje infrastrukture i operativna podrška T
+3)Bez efektivnog menadžera IT rješenja nisu u mogućnosti da funkcioniraju na ispravan način to jest da donose poslovnu vrijednost. T
+4) Značajke IT managementa: leadership, operacije, tehnologija, podaci, procesi
+
+PREDAVANJE 7
+1) IT gradi strateški plan na:
+a.
+
+Napišite plan
+b.
+
+Nabavite preporučene nadogradnje od dobavljača
+c.
+
+Potražite stvari za premještanje u oblak
+d.
+
+Pitajte IT osoblje za ideje o tome što žele razvijati
+e.
+Implementirajte najnovije tehnološke ideje CEO-a
+f.
+
+Nađite kritične točke loma i popravite ih
+
+2) U  preprekama za uspješnu IT Strategiju pronalazimo nedostatak pristupa ključnim podacima koji su bitni da bi izradili kvalitetnu IT strategiju. T
+
+3) Jedna od prepreka za uspješnu IT Strategiju je nedovoljna interakcija sa samim poslovanjem T
+
+4)
+1) Unos IT strategije
+2) Analiza strateških ciljeva
+3) Procjena IT implikacije, razviti strateške imperative i inicijative
+4) Izvršavanje GAP analize
+5) Sinkronizacija
+6) Komunikacija
+
+5) Karakteristike dobre IT strategije
+a.
+
+Jednostavna za razumijevanje od strane sudionika
+b.
+
+Mora biti technology agnostic
+c.
+
+Mora se moći izvršiti
+d.
+
+Mora biti usklađena s poslovnim pitanjima
+e.
+
+Mora omogućiti da se donose odluke na temelju te strategije 
+f.
+
+Mora biti fokusirana na ciljeve i ishode same strategije
+g.
+
+Mora biti realistična
+h.
+
+Mora rješavati poslovne probleme
+
+Predavanje 8
+1) Dokument IT strategije treba biti što kraće formuliran što je više moguće. Ključni aspekti, posebno ciljevi moraju biti jasno i nedvosmisleno opisani. T
+2) GAP označava koliko IT inicijative nisu poravante sa zahtjevima poslovanja.
+3) Komponente IT sposobnosti
+IT organizacija( vještine, struktura, znanje)
+IT strategija
+IT procesi i metrike
+Imovina/infrastruktura
+4) Novi model IT-ja je decentralizirana mreža koja omogućava digitalnu transformaciju poduzeća.
+5) Business-IT alignement disciplina koja poravnava it strategiju sa poslovnom strategijom u cilju maksimiziranja vrijednosti koja se kreira za poduzeće. 
+6) Cilj Business - IT Alignment-a je smanjiti  GAP to jest kroz vrijeme ga eliminirati T
+7) U naslijeđenom IT pristupu pronalazimo agilne metode i DevOps N
+
+Predavanje 9
+1) Čimbenici koji utječu na stopu usvajanja inovacija
+b.
+
+Kompatibilnost
+c.
+
+Probnost
+d.
+
+Uočljivost
+e.
+
+Relativna prednost
+f.
+
+Složenost
+
+2) Percipirana vrijednost je mjera kvalitete u odnosu na plaćenu cijenu T
+3) Rezultat indeksa zadovoljstva kupaca (ASCI) izračunava se kao ponderirani prosjek od tri anketna pitanja koja mjere različite aspekte zadovoljstva proizvodom ili uslugom.  T
+
+4) SERVQUAL je najučinkovitiji alat za analizu dostupan uslužnim djelatnostima za proučavanje razlike između očekivanja korisnika i njihove percepcije same usluge.
+
+5) TAM teoretizira da je percepcija korisnika o korisnosti i jednostavnosti korištenja značajna odrednica prihvaćanja ili usvajanja određene tehnologije.
+
+6) Delone i MCLean su stvorili višedimenzionalni mjerni model s međuovisnostima između različitih kategorija uspjeha. Model se sastoji od ___(potrebno upisati broj) međusobno povezanih dimenzija uspijeha. 6 (ŠEST)
+
+7) Dimenzije SERVQUAL-a:
+a.
+
+Materijalna dobra
+b.
+
+Empatija
+d.
+
+Osiguranje
+e.
+
+Responzivnost
+f.
+
+Pouzdanost
+
+8) Označi ključne konstruktore koje pronalazimo u jedinstvenoj teoriji prihvaćanja i korištenja tehnologije (UTAUT) 
+
+Napor očekivanja
+
+Društveni utjecaj
+
+Očekivano trajanje
+
+Olakšavajući uvjeti
+
+Predavanje 10
+
+1) CMMI novija verzija CMM-a. Pruža uvid i smjernice za upravljanje i unaprijeđenje procesa u poduzeću kako bi se mogli postići poslovni ciljevi. Koordinira multidisciplinarne aktivnosti te propagira sistemski pristup razmišljanju i sistemsko razmišljanje.
+
+2) PRINCE 2 kompletira PMBOK model tako da pruža smjernice koje će pomoći voditeljima projekata u razvoju različitih faza projekta. 
+
+3) Cilj SIAM modela je pružiti bolju uslugu krajnjim korisnicima putem bolje troškovne učinkovitosti, smanjene odgovornosti i fleksibilnosti F
+
+4) Archimate framework spada u TOGAF model T
+
+5) IT4IT je IT framework za pružanje vrijednosti za poslovanje. Temelji se na lancu vrijednosti koji ima __ toka vrijednosti.  4
+
+6) Označi faze u dev dijelu
+Kodiranje, testiranje, planiranje, izgradnja
+
+7) SAFe ima kompletan jedan ciklus za upravljanje modernijim agilnim metodama u malo većim organizacijama. F
+
+8) ITIL pruža uvid najbolje prakse i smjernice za upravljanje IT uslugama (service menadžment). Želi uskladiti IT usluge s potrebama poduzeća i pruža podršku ključnim procesima poduzeća. 
+
+9) COBIT 5 pruža metrike i modele zrelosti za mjerenje toga da li IT organizacija postiže svoje ciljeve ili ne. Balansira između potreba internih i eksternih stakeholdera.
+
+10) CMMI maturity levels:
+1 - initial
+2 - managed
+3 - defined
+4 - quantitavely managed
+5 - optimizing
+
+Predavanje 11.
+
+1) Arhitektura poduzeća je disciplina koja je namijenjena dizajniranju poslovne i organizacijske strukture na način da bude bazirana na viziji, strateškim ciljevima i funkcijama poduzeća
+T
+
+2) Zachman framework se implementira kroz archimate F
+
+3) Cilj informacijske arhitekture je osigurati da svi zaposlenici nekog poduzeća razumiju viziju kompanije i prema čemu kompanija teži. F
+
+4) Zachman framework ima jako konkretizirane detalje implementacije o svakoj domeni/ procesu. F
+
+5) Kategorije zachman frameworka
+Kada
+Kako
+Tko
+Što
+Gdje
+Zašto
+
+6) Domene arhitekture poduzeća
+Aplikacijska
+Tehnološka
+Poslovna
+Informacijska
+
+7) Archimate je tehnički jezik za business architecture
+8) Cilj arhitekture poduzeća je pružiti framework, alate i perspektive da bi se poslovanje dovelo iz trenutnog stanja u ciljano stanje. T
+
+9) Postoje 2 popularna okvira za arhitekturu poduzeća koja su priznata na globalnoj razini i koja se najviše koriste. To su Zachman framework i
+
+TOGAF
+
+Predavanje 12
+
+1) Između Dev dijela i Ops dijela pronalazimo područje konflikata. T
+2) Područje ugradnja developmenta u operacije koje pronalazimo u area matrix-u fokusirano je na uključenost developmenta u stavke koje se izvorno nalaze u produkciji  T
+3) Označi faze životnog ciklusa DevOps-a
+Planiranje i mjerenje
+Razvoj i testiranje
+Distribucija i isporuka
+Monitoriranje i optimiziranje
+
+4) Uloge u OPS dijelu:
+Mrežni tehničari
+Menadžeri baza podataka
+Sistemski administratori
+
+5) DevOps metodologija je bazirana na lean i agilnim pristupima. T 
+
+6) Označi prednosti agilnog pristupa
+Smanjenje rizika
+Efektivnija rješenja
+Poravnanje između poslovanja i IT-ja
+Fleksibilnost
+
+7) Područje area matrix-a - Proširenje developmenta prema operacijama fokusira se na suradnju u smislu strujanja informacija od operacija nazad prema developmentu .
+F
+
+8) Area Matrix se sastoji od 4 različita područja koji pokazuju kako integrirati Dev i Ops.
+
+9) Navedi zajednički naziv devops komponenti -> kultura, automatizacija, lean, mjerenje i dijeljenje CALMS
+
+Predavanje 13.
+
+1) IT4IT zapravo služi organizacijama kao jedan novi operativni model u kojem nije omogućeno automatizirano upravljanje IT-jem F
+
+2) IT4IT je baziran na Porterovom lancu vrijednosti T
+
+3) Označi faze životnog ciklusa tijekom putovanja kroz model usluge koje identificira IT4IT
+
+Logički model, realizirani model usluge, konceptualni model
+
+4) IT4IT je otvoreni standard koji pruža IT framework za isporuku vrijednosti za poslovanje.
+
+5) 
+Realizirani model usluge 
+Usluga se može implementirati u operativno okruženje i postaviti u katalog na koji se korisnik može pretplatiti
+
+Konceptualni model
+Obuhvaća razumijevanje zašto se nudi točno ta usluga, koji su kupci te kako će im se nuditi ta usluga
+
+Logički model
+Obuhvaća tipične modele koji se mogu koristiti u razvoju softvera i projektng menadžmenta te stvarnu kreaciju sposobnosti koje te usluge trebaju za svoj rad
+
+Predavanje 14.
+
+1) 
+Da bi integrirali DevOps i arhitekturu poduzeća koristimo IT4IT
+
+2) Cilj DevOps-a i arhitekture poduzeća je poravnati tehničke i financijske poglede kompanije.  T
+
+3) 
+Definicija: Osigurati da se DevOps timovi integriraju na način da se procesi izvršavaju/izgrade na određeni način-korištenjem relevantne tehnologije i izvora podataka označava
+
+Ideju arhitekture poduzeća
